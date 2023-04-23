@@ -1,0 +1,20 @@
+button{
+    width: 250px;
+    height: 80px;
+    color: whitesmoke;
+    background: none;
+    border: solid 2px whitesmoke;
+    border-radius: 10px;
+    font-size: 2em;
+    font-family: 'Orbitron';
+    transition-duration: 1s;
+}
+button:hover{
+    transition-duration: 0.2s;
+    background-color: rgba(245, 245, 245, 0.084);
+}
+button:active{
+    transition-duration: 0.4s;
+    background-color: rgba(245, 245, 245, 0.5);
+    transition-timing-function: ease;
+}

@@ -1,0 +1,8 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to top left, #00054d,#560061);
+  height: 100%;
+  width: 100%;
+  background-attachment: fixed;
+}
